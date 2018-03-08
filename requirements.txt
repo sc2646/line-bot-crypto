@@ -1,5 +1,5 @@
 line-bot-sdk
 flask
-requests==0.11.1
+requests==2.2.1
 beautifulsoup4==4.1.3
 

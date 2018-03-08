@@ -67,10 +67,10 @@
 [INFO  - 2018-03-08T06:57:44.718Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2018-03-08T07:02:44.713Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2018-03-08T07:07:44.699Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2018-03-08T07:06:33.469Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-ched_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
-  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
-  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+[INFO  - 2018-03-08T07:12:44.691Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-08T07:17:44.683Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-03-08T07:16:33.450Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+6_54e1c3722102182bb133912ad4442e19_min.js:14)
   advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
   _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
   _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
@@ -5823,10 +5823,10 @@ ched_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
   _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-03-08T07:10:41.794Z] Session [6e1ea450-229a-11e8-8070-1d545212b968] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+[ERROR - 2018-03-08T07:10:59.581Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-03-08T07:10:41.795Z] Session [6e1ea450-229a-11e8-8070-1d545212b968] - page.onError - stack:
+[ERROR - 2018-03-08T07:10:59.581Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
   frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
   _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
   setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
@@ -5844,10 +5844,10 @@ ched_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
   _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-03-08T07:10:50.096Z] Session [6e1ea450-229a-11e8-8070-1d545212b968] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+[ERROR - 2018-03-08T07:11:07.884Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-03-08T07:10:50.096Z] Session [6e1ea450-229a-11e8-8070-1d545212b968] - page.onError - stack:
+[ERROR - 2018-03-08T07:11:07.884Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
   frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
   _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
   setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
@@ -5865,10 +5865,1608 @@ ched_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
   _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-03-08T07:10:58.386Z] Session [6e1ea450-229a-11e8-8070-1d545212b968] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+[ERROR - 2018-03-08T07:11:16.176Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-03-08T07:10:58.386Z] Session [6e1ea450-229a-11e8-8070-1d545212b968] - page.onError - stack:
+[ERROR - 2018-03-08T07:11:16.176Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:11:24.432Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:11:24.433Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:11:32.742Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:11:32.742Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:11:41.030Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:11:41.030Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:11:49.281Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:11:49.281Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:11:57.574Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:11:57.575Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:12:05.829Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:12:05.829Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:12:14.085Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:12:14.086Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:12:22.362Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:12:22.362Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:12:30.616Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:12:30.616Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-03-08T07:12:34.699Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-03-08T07:12:38.940Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:12:38.940Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:12:47.225Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:12:47.225Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:12:55.516Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:12:55.516Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:13:03.809Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:13:03.810Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:13:12.089Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:13:12.089Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:13:20.374Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:13:20.375Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:13:28.671Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:13:28.671Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:13:36.943Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:13:36.943Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:13:45.222Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:13:45.222Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:13:53.500Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:13:53.500Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:01.807Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:01.807Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:10.119Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:10.119Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:18.412Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:18.412Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:26.707Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:26.707Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:34.991Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:34.991Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:43.295Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:43.295Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:51.598Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:51.598Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:59.878Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:14:59.878Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:15:08.180Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:15:08.180Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:15:16.445Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:15:16.445Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:15:24.724Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:15:24.724Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:15:32.997Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:15:32.998Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:15:41.271Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:15:41.271Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:15:49.542Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:15:49.542Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:15:57.796Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:15:57.796Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:16:06.078Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:16:06.078Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:16:14.336Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:16:14.336Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:16:22.605Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:16:22.606Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:16:30.853Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:16:30.853Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:16:39.109Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:16:39.109Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:16:47.359Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:16:47.359Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:16:55.622Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:16:55.623Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:17:03.897Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:17:03.897Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:17:12.153Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:17:12.153Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:17:20.407Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:17:20.407Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:17:28.673Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:17:28.673Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-03-08T07:17:34.690Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-03-08T07:17:36.936Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:17:36.937Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:17:45.202Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:17:45.203Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:17:53.449Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:17:53.449Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:01.719Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:01.719Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:09.983Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:09.983Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:18.273Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:18.273Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:26.555Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:26.555Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:34.834Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:34.835Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:43.091Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:43.091Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:51.336Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:51.336Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:59.614Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:18:59.614Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:19:07.881Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:19:07.881Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:19:16.126Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:19:16.126Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:19:24.381Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:19:24.382Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:19:32.658Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:19:32.658Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:19:40.908Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:19:40.908Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:19:49.160Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:19:49.160Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:19:57.439Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:19:57.439Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:20:05.692Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:20:05.692Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:20:13.993Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:20:13.993Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:20:22.249Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:20:22.249Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:20:30.486Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:20:30.486Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:20:38.760Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:20:38.760Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:20:47.034Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:20:47.035Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:20:55.317Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:20:55.317Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:21:03.585Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:21:03.585Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:21:11.872Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:21:11.872Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:21:20.150Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:21:20.150Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:21:28.402Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:21:28.402Z] Session [7cc91120-229a-11e8-9e3f-7d33fe1925b8] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:21:19.346Z] Session [6e1ea450-229a-11e8-8070-1d545212b968] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:21:19.347Z] Session [6e1ea450-229a-11e8-8070-1d545212b968] - page.onError - stack:
+  frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
+  _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
+  _updateTimeline (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  advance (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:14)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  update (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  handleEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:13)
+  _dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  dispatchEvent (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _tick (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+  _handleTimeout (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:12)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:21:27.624Z] Session [6e1ea450-229a-11e8-8070-1d545212b968] - page.onError - msg: ReferenceError: Can't find variable: fl_ClickToGoToWebPage_1
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-08T07:21:27.624Z] Session [6e1ea450-229a-11e8-8070-1d545212b968] - page.onError - stack:
   frame_0 (https://s0.2mdn.net/dfp/357267/40577187/1520188449122/IceRock160600/script.js:890)
   _runActions (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
   setPosition (https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js:17)
