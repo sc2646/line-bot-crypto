@@ -46,9 +46,9 @@ class CoinMarketCapScrapper:
         if len(self.result) != 0 :
             try:
                 if self.result["BTC"][PRICE] > 8500:
-                    print "============="
+                    print("=============")
                     content = "BTC price is now " + str(self.result["BTC"][PRICE] + "!")
-                    print content
+                    print(content)
                     self.line_bot_api.push_messsage(USER_ID, TextSendMessage(text="HELLO!"))
             except:
                 pass
