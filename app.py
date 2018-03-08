@@ -1,43 +1,49 @@
-# -*- coding: utf-8 -*-
+from flask import Flask, request, abort
 
-import re
-import json
-import datetime
+from linebot import (
+    LineBotApi, WebhookHandler
+)
+from linebot.exceptions import (
+    InvalidSignatureError
+)
+from linebot.models import (
+    MessageEvent, TextMessage, TextSendMessage, ImageSendMessage
+)
 
-from selenium import webdriver
-from bs4 import BeautifulSoup
-from linebot import LineBotApi
-from linebot.models import TextSendMessage
+app = Flask(__name__)
 
-LINK = "https://www.ptt.cc/bbs/WomenTalk/index.html"
+# Channel Access Token
+line_bot_api = LineBotApi('6lWwrvOTgNh+eg1WXm9XUv47Yr3sjFKI/T1cJTSJyLGRAT2wvitx8dp3EKDiY4cukWr52C99J4oFYGpd2H/7KzAfRZYlou9E4XsZ1pK71t156zg79eOGRxoN+dNPRaDja6CKMH4+kzJJslm3gU9UywdB04t89/1O/w1cDnyilFU=')
+# Channel Secret
+handler = WebhookHandler('aae2b4b36e80ec3ddce3b42352492b6c')
 
-class WomenTalkScraper:
-    def __init__(self):
-        self.driver = webdriver.PhantomJS()
-        self.result=[]
-        self.names = []
+# 監聽所有來自 /callback 的 Post Request
+@app.route("/callback", methods=['POST'])
+def callback():
+    # get X-Line-Signature header value
+    signature = request.headers['X-Line-Signature']
 
-    def scrape_one_url(self, url):
-        self.driver.get(url)
-        soup = BeautifulSoup(self.driver.page_source, "html.parser")
-        posts = soup.find_all("div", class_="r-ent")
-        for post in posts:
-            if(post.find("div", class_="title").a!= None):
-                title = post.find("div", class_="title").a.get_text()
-            else:
-                continue
-            author = post.find("div", class_="meta").find("div", class_="author").get_text()
-            print title
-            print "================"
-            print author
+    # get request body as text
+    body = request.get_data(as_text=True)
+    app.logger.info("Request body: " + body)
 
-            # if r.match(title):
-            if re.match(u'^[女]', title):
-                self.result.append(title)
-                self.names.append(author)
+    # handle webhook body
+    try:
+        handler.handle(body, signature)
+    except InvalidSignatureError:
+        abort(400)
 
-        print self.result
-        print self.names
-if __name__ == '__main__':
-    womentalk_scraper = WomenTalkScraper()
-    womentalk_scraper.scrape_one_url(LINK)
+    return 'OK'
+
+
+@handler.add(MessageEvent, message=TextMessage)
+def handle_message(event):
+    message = TextSendMessage(text=event.message.text)
+    line_bot_api.reply_message(
+        event.reply_token,
+        message)
+
+import os
+if __name__ == "__main__":
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)

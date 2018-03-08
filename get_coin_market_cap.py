@@ -1,4 +1,5 @@
-from selenium import webdriver
+import requests
+# import urllib2
 from bs4 import BeautifulSoup
 from linebot import LineBotApi, WebhookHandler
 from linebot.models import TextSendMessage
@@ -12,29 +13,31 @@ CHANNEL_SECRET = "aae2b4b36e80ec3ddce3b42352492b6c"
 
 class CoinMarketCapScrapper:
     def __init__(self):
-        self.driver = webdriver.PhantomJS()
+        # self.driver = webdriver.PhantomJS()
+        # self.response =
         self.result = dict()
         self.line_bot_api = LineBotApi(ACCESS_TOKEN)
         self.handler = WebhookHandler(CHANNEL_SECRET)
 
 
     def scrape_coin_market_cap(self, url):
-        self.driver.get(url)
-        soup = BeautifulSoup(self.driver.page_source, "html.parser")
+        # self.driver.get(url)
+        page = requests.get(LINK)
+        # soup = BeautifulSoup(self.driver.page_source, "html.parser")
+        soup = BeautifulSoup(page.content, "html.parser")
         rows = soup.find("tbody").find_all("tr")
 
         for row in rows:
             try:
                 currency =  row.find("td", class_="no-wrap currency-name").span.a.get_text()
                 price = row.find("td", class_="no-wrap text-right").a.get_text()
-                percentage_change = row.find("td", class_="no-wrap percent-change text-right negative_change").get_text()
-
+                # percentage_change = row.find("td", class_="no-wrap percent-change text-right negative_change").get_text()
+                # print percentage_change
                 is_target = self.isBTC(currency) or self.isETH(currency) or self.isLTC(currency) or self.isNEO(currency) or self.isXMR(currency)
 
                 if(is_target):
                     self.result[currency] = dict()
                     self.result[currency][PRICE] = price
-                    self.result[currency][PERCENTAGE] = percentage_change
 
             except:
                 pass
@@ -45,6 +48,7 @@ class CoinMarketCapScrapper:
                 if self.result["BTC"][PRICE] > 8500:
                     print "============="
                     content = "BTC price is now " + str(self.result["BTC"][PRICE] + "!")
+                    print content
                     self.line_bot_api.push_messsage(USER_ID, TextSendMessage(text="HELLO!"))
             except:
                 pass
